@@ -1,0 +1,8 @@
+C:\Users\zacha\source\repos\Zacharioudakis_Assignment_3\Zacharioudakis_Assignment_3\obj\Debug\Zacharioudakis_Assignment_3.csproj.AssemblyReference.cache
+C:\Users\zacha\source\repos\Zacharioudakis_Assignment_3\Zacharioudakis_Assignment_3\obj\Debug\Zacharioudakis_Assignment_3.csproj.SuggestedBindingRedirects.cache
+C:\Users\zacha\source\repos\Zacharioudakis_Assignment_3\Zacharioudakis_Assignment_3\obj\Debug\Zacharioudakis_Assignment_3.csproj.CoreCompileInputs.cache
+C:\Users\zacha\source\repos\Zacharioudakis_Assignment_3\Zacharioudakis_Assignment_3\bin\Debug\Zacharioudakis_Assignment_3.exe.config
+C:\Users\zacha\source\repos\Zacharioudakis_Assignment_3\Zacharioudakis_Assignment_3\bin\Debug\Zacharioudakis_Assignment_3.exe
+C:\Users\zacha\source\repos\Zacharioudakis_Assignment_3\Zacharioudakis_Assignment_3\bin\Debug\Zacharioudakis_Assignment_3.pdb
+C:\Users\zacha\source\repos\Zacharioudakis_Assignment_3\Zacharioudakis_Assignment_3\obj\Debug\Zacharioudakis_Assignment_3.exe
+C:\Users\zacha\source\repos\Zacharioudakis_Assignment_3\Zacharioudakis_Assignment_3\obj\Debug\Zacharioudakis_Assignment_3.pdb
